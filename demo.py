@@ -1,3 +1,4 @@
 a = 5
 b = 10
-print("Sum Total: ", a+b)
+c = 20
+print("Sum Total: ", a+b+c)
