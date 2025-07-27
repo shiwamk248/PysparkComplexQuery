@@ -1,3 +1,3 @@
 a = 5
 b = 10
-print("Sum Total: ", a+b)
+print("Total Sum of a,b,c is : ", a+b)
